@@ -4,7 +4,7 @@
 
 ## Syllabus:
 
-[Syllabus](https://mycourseville-default.s3.ap-southeast-1.amazonaws.com/useruploaded_course_files/2025_1/70559/materials/Syllabus_2190513_DS_ICE_2025s1-7075-17537993125080.pdf)
+[Syllabus](https://mycourseville-default.s3.ap-southeast-1.amazonaws.com/useruploaded_course_files/2025_1/70559/materials/Syllabus_2190513_DS_ICE_2025s1-7075-17539844994697.pdf)
 
 ## Code:
 
