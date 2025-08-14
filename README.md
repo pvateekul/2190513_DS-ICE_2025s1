@@ -10,12 +10,18 @@
 
 ### Week01-02: Intro to Numpy, Pandas
 
-1. Numpy: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week01_Intro_Pandas/1_Numpy.ipynb)
+1. Pandas: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week01_Intro_Pandas/1_Pandas.ipynb)
 
-2. Pandas: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week01_Intro_Pandas/2_Pandas.ipynb)
+2. Pandas with Youtube stat data: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week01_Intro_Pandas/2_Pandas_%28Dataset_Trending_YouTube_Video_Statistics%29.ipynb)
 
-3. Pandas with Youtube stat data: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week01_Intro_Pandas/3_Pandas_%28Dataset_Trending_YouTube_Video_Statistics%29.ipynb)
+3. (Advanced) Pandas with Youtube stat data: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week01_Intro_Pandas/3_Advanced_Pandas_%28Dataset_Trending_YouTube_Video_Statistics%29.ipynb)
 
-4. (Advanced) Pandas with Youtube stat data: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week01_Intro_Pandas/4_Advanced_Pandas_%28Dataset_Trending_YouTube_Video_Statistics%29.ipynb)
+### Week02: Data Preparation
 
-Assignment (Pandas with Youtube stat data): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week01_Intro_Pandas/5_PandasAssignment.ipynb)
+1. Impute Missing Value: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week02_DataPrep/Lab2_ImputeMissingValue.ipynb)
+
+2. Outliers - Take Log: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week02_DataPrep/Lab4_Outliers_Titanic.ipynb)
+
+3. Outliers - Remove them with Z-Score: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week02_DataPrep/Lab5_Outliers_Boston_%28optional%29.ipynb)
+
+4. Split Train/Test: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week02_DataPrep/Lab3_SplitTrainTest.ipynb)
