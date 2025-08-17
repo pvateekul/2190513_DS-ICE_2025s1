@@ -20,7 +20,7 @@
 
 1. Impute Missing Value: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week02_DataPrep/Lab2_ImputeMissingValue_Pipeline.ipynb)
 
-2. Outliers - Take Log: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week02_DataPrep/Lab4_Outliers_Titanic.ipynb)
+2. Outliers - Take Log: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week02_DataPrep/Lab4_Outliers_Titanic_Pipeline.ipynb)
 
 3. Outliers - Remove them with Z-Score: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week02_DataPrep/Lab5_Outliers_Boston_%28optional%29.ipynb)
 
