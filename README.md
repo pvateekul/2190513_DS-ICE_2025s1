@@ -33,7 +33,7 @@
 #### Week04: Tree-based model, Pipeline, Evaluation
 #### Week05: Regression
 #### Week06: kNN, GridSearch + Clustering
-#### Week07/1: NN
+#### Week07: NN
 
 1. Decision Trees: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week03_ML/1_Decision_Trees_Random_Forests_v3.ipynb)
 
@@ -56,7 +56,7 @@
 10. Scikit-learn pipeline: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week03_ML/10_Scikit_learn_Pipeline.ipynb)
 
 
-### Week 07/2: Intro to Deep Learning
+### Week 08: Intro to Deep Learning
 
 1. Image classification with CNN (PyTorch Lightning): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week04_DL/1_Image_classification_CIFAR10_CNN(lightning).ipynb)
 
