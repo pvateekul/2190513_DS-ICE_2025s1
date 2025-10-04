@@ -8,7 +8,7 @@
 
 ## Code:
 
-### Week01-02: Intro to Numpy, Pandas
+### Week01: Intro to Numpy, Pandas
 
 1. Pandas: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week01_Intro_Pandas/1_Pandas.ipynb)
 
@@ -16,7 +16,7 @@
 
 3. (Advanced) Pandas with Youtube stat data: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week01_Intro_Pandas/3_Advanced_Pandas_%28Dataset_Trending_YouTube_Video_Statistics%29.ipynb)
 
-### Week02: Data Preparation
+### Week02-03: Data Preparation
 
 1. Impute Missing Value: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week02_DataPrep/Lab2_ImputeMissingValue_Pipeline.ipynb)
 
@@ -29,9 +29,11 @@
 
 5. Split Train/Test: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week02_DataPrep/Lab3_SplitTrainTest.ipynb)
 
-### Week03-04: Traditional ML
-#### Week03: Tree-based model, regression
-#### Week04: NN, kNN, GridSearch, Pipeline, Evaluation + Clustering
+### Week04-07: Traditional ML
+#### Week04: Tree-based model, Pipeline, Evaluation
+#### Week05: Regression
+#### Week06: kNN, GridSearch + Clustering
+#### Week07/1: NN
 
 1. Decision Trees: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week03_ML/1_Decision_Trees_Random_Forests_v3.ipynb)
 
