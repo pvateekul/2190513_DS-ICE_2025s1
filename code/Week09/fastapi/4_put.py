@@ -3,7 +3,7 @@
 import uvicorn
 from fastapi import FastAPI
 
-from typing import Optional, Union
+from typing import Optional, Literal
 from pydantic import BaseModel
 
 
@@ -24,7 +24,7 @@ items = [
 ]
 
 
-def find_item_by_id(item_id: int) -> tuple[int, Union[Item, None]]:
+def find_item_by_id(item_id: int) -> tuple[int, Item] | tuple[Literal[-1], None]:
     for idx, element in enumerate(items):
         if element.id == item_id:
             return idx, element
