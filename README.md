@@ -78,9 +78,7 @@
 
 5. Time series Forecasting: Stock Price: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week08_DL/5_Time_series_forecasting_DataInGD_update.ipynb)
 
-### Week09: Webscraping, FastAPI
-
-#### Webscraping
+### Week09: Webscraping
 
 1. Basic Web Scraping: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week09/webscraping/1_basic_web_scraping.ipynb)
 
@@ -90,7 +88,7 @@
 
 4. Selenium: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week09/webscraping/4_selenium.ipynb)
 
-#### FastAPI
+### Week10: Fast API
 
 1-1. Simple: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week09/fastapi/1_simple.ipynb)
 
@@ -108,7 +106,7 @@
 
 4-2. Put Request: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week09/fastapi/4_put_request.ipynb)
 
-### Week10: Visualization with Streamlit
+### Week11: Visualization with Streamlit
 
 #### Streamlit Runner (for running files below in Colab) [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week10_Streamlit/streamlit_runner.ipynb)
 
@@ -122,3 +120,5 @@
 5. Dash Histogram: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week10_Streamlit/5_dash_histograms.ipynb)
 
 6. Dash Gapminder: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week10_Streamlit/6_dash_gapminder.ipynb)
+
+### Week11: Text Classification
