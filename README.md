@@ -34,9 +34,9 @@
 
 #### Week05: Regression
 
-#### Week06-07: kNN, GridSearch + Clustering
+#### Week06: kNN, GridSearch + Clustering
 
-#### Week08: NN
+#### Week07: NN
 
 1. Decision Trees: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week03_ML/1_Decision_Trees_Random_Forests_v3.ipynb)
 
@@ -58,7 +58,7 @@
 
 10. Scikit-learn pipeline: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week03_ML/10_Scikit_learn_Pipeline.ipynb)
 
-### Week 09: Intro to Deep Learning
+### Week08: Intro to Deep Learning
 
 1. Image classification with CNN (PyTorch Lightning): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](<https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week08_DL/1_Image_classification_CIFAR10_CNN(lightning).ipynb>)
 
@@ -78,7 +78,7 @@
 
 5. Time series Forecasting: Stock Price: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week08_DL/5_Time_series_forecasting_DataInGD_update.ipynb)
 
-### Week10: Webscraping
+### Week09: Webscraping
 
 1. Basic Web Scraping: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week09/webscraping/1_basic_web_scraping.ipynb)
 
@@ -88,7 +88,7 @@
 
 4. Selenium: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week09/webscraping/4_selenium.ipynb)
 
-### Week11: Fast API
+### Week10: Fast API
 
 1-1. Simple: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week09/fastapi/1_simple.ipynb)
 
