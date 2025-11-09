@@ -34,9 +34,9 @@
 
 #### Week05: Regression
 
-#### Week06: kNN, GridSearch + Clustering
+#### Week06-07: kNN, GridSearch + Clustering
 
-#### Week07: NN
+#### Week08: NN
 
 1. Decision Trees: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week03_ML/1_Decision_Trees_Random_Forests_v3.ipynb)
 
@@ -58,7 +58,7 @@
 
 10. Scikit-learn pipeline: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week03_ML/10_Scikit_learn_Pipeline.ipynb)
 
-### Week 08: Intro to Deep Learning
+### Week 09: Intro to Deep Learning
 
 1. Image classification with CNN (PyTorch Lightning): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](<https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week08_DL/1_Image_classification_CIFAR10_CNN(lightning).ipynb>)
 
@@ -78,7 +78,7 @@
 
 5. Time series Forecasting: Stock Price: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week08_DL/5_Time_series_forecasting_DataInGD_update.ipynb)
 
-### Week09: Webscraping
+### Week10: Webscraping
 
 1. Basic Web Scraping: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week09/webscraping/1_basic_web_scraping.ipynb)
 
@@ -88,7 +88,7 @@
 
 4. Selenium: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week09/webscraping/4_selenium.ipynb)
 
-### Week10: Fast API
+### Week11: Fast API
 
 1-1. Simple: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week09/fastapi/1_simple.ipynb)
 
@@ -121,7 +121,7 @@
 
 6. Dash Gapminder: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week10_Streamlit/6_dash_gapminder.ipynb)
 
-### Week11: Text Classification
+### Week12: Advanced DL & Text Classification
 
 1. Text Classification (TF-IDF) [`PyTorch`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week11_Text_Classification/5_2_tfidf_for_Sentiment_Analysis.ipynb)
 
@@ -131,7 +131,7 @@
 
 4. Multi-label Text Classification (microsoft/deberta-v3-small) [`PyTorch`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week11_Text_Classification/5_5_Multi_label_Text_Classification.ipynb)
 
-### Week12: Generative AI (Prompt Engineering, Monitoring, Agentic Workflow, RAG, Fine-tuning)
+### Week13: Generative AI (Prompt Engineering, Monitoring, Agentic Workflow, RAG, Fine-tuning)
 
 1. Basic API Call with LangChain [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week12_GenerativeAI/7_1_LLM_Basic_API_Call_LangChain.ipynb)
 
