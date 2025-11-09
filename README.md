@@ -130,3 +130,21 @@
 3. Text Classification (Phayathaibert) [`PyTorch Lightning`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week11_Text_Classification/5_4_Wongnai_Review_Rating_Classifiacation_(Pytorch_lightning).ipynb)
 
 4. Multi-label Text Classification (microsoft/deberta-v3-small) [`PyTorch`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week11_Text_Classification/5_5_Multi_label_Text_Classification.ipynb)
+
+### Week12: Generative AI (Prompt Engineering, Monitoring, Agentic Workflow, RAG, Fine-tuning)
+
+1. Basic API Call with LangChain [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week12_GenerativeAI/7_1_LLM_Basic_API_Call_LangChain.ipynb)
+
+2. Basic Prompt Engineering [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week12_GenerativeAI/7_2_LLM_Prompt_Engineering_Basic_LangChain.ipynb)
+
+3. Advanced Prompt Engineering [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week12_GenerativeAI/7_3_LLM_Prompt_Engineering_Advanced_LangChain.ipynb)
+
+4. LangChain Playground and Tracking with LangSmith [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week12_GenerativeAI/7_4_LLM_LangChiain_Playground_Tracking_with_LangSmith.ipynb)
+
+5. Basic LangGraph [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week12_GenerativeAI/7_5_LLM_Basic_LangGraph.ipynb)
+
+6. RAG with LangChain and Agentic RAG with LangGraph [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week12_GenerativeAI/7_6_LLM_RAG_LangChain_LangGraph.ipynb)
+
+7. Creating a Simple ReAct Agent using LangGraph [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week12_GenerativeAI/7_7_LLM_Create_a_ReAct_Agent.ipynb)
+
+8. Fine-tuning a Local LLM (Typhoon-7B) [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week12_GenerativeAI/7_8_LLM_Typhoon7b_Finetuning.ipynb)
