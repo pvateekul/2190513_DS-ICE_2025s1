@@ -145,6 +145,8 @@
 
 6. RAG with LangChain and Agentic RAG with LangGraph [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week12_GenerativeAI/7_6_LLM_RAG_LangChain_LangGraph.ipynb)
 
+<!--
 7. Creating a Simple ReAct Agent using LangGraph [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week12_GenerativeAI/7_7_LLM_Create_a_ReAct_Agent.ipynb)
 
 8. Fine-tuning a Local LLM (Typhoon-7B) [`Hugging Face`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week12_GenerativeAI/7_8_LLM_Typhoon7b_Finetuning_Huggingface.ipynb)
+-->
